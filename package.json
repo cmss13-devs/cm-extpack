@@ -1,0 +1,27 @@
+{
+  "name": "cm-extpack",
+  "displayName": "CM-SS13 Extensions",
+  "description": "Extensions recommended when working on CM-SS13.",
+  "publisher": "cmss13-devs",
+  "version": "0.0.1",
+  "license": "ISC",
+  "repository": {
+    "type": "git"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "icon": "cm_extpack.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": ["BYOND", "DM", "CM", "SS13:CM"],
+  "extensionPack": [ 
+    "oderwat.indent-rainbow",
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "Donkie.vscode-tgstation-test-adapter",
+    "ss13.byond",
+    "dbaeumer.vscode-eslint"
+  ]
+}
