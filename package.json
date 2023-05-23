@@ -3,7 +3,7 @@
   "displayName": "CM-SS13 Extensions",
   "description": "Extensions recommended when working on CM-SS13.",
   "publisher": "cmss13-devs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "ISC",
   "repository": {
     "type": "git",
