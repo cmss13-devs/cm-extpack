@@ -29,5 +29,7 @@ A pretty opinionated selection of VSCode extensions, that we recommend you use w
     - Allows you to review and manage GitHub pull requests and issues in Visual Studio Code.
 - [📦 Tgstation Test Explorer](https://marketplace.visualstudio.com/items?itemName=Donkie.vscode-tgstation-test-adapter)
 	- Easier running of unit tests defined in DM code
+- [📦 Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+    - TGUI requires you to Prettify your code - the Extension will do this automatically.
 
 cm_extpack.png (Source: https://github.com/cmss13-devs/cmss13/blob/master/icons/mob/xenos/queen.dmi) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
